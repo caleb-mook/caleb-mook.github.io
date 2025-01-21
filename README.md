@@ -5,7 +5,7 @@
 **Repository Description:** This repository will be used to hold my assignments.   
 
 # About Me:
-Hello! My name is Caleb and I am 22. I am enrolled in the **Computer Programing & Development** program. Prior to this I was a ballet dancer. I danced for about 15 years until I recently decided to swith careers. This will be my first semester at Wake Tech!
+Hello! My name is Caleb and I am 22. I am enrolled in the **Computer Programing & Development** program. Prior to this, I was a ballet dancer. I danced for about 15 years until I recently decided to swith careers. This will be my first semester at Wake Tech!
     
 ## My Interests:
 
