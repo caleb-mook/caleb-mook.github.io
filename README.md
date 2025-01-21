@@ -1,5 +1,5 @@
 # caleb-mook.github.io
-**Name:** Caleb Mook
+**Name:** Caleb Mook  
 **Email:** cbmook@my.waketech.com   
 **Account Description:** This is my Wake Tech School Github account.   
 **Repository Description:** This repository will be used to hold my assignments.   
