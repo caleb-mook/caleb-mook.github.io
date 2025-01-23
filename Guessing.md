@@ -11,9 +11,9 @@ print_Q --> get_answer[Recieve players answer]
     player_right --> win((Player Wins))
     valid --> player_wrong[Player is wrong]
     player_wrong --> too_high[Answer is too high]
-    too_high --> print_too_high[Print: Answer to high]
+    too_high --> print_too_high[Print: Answer is to high]
     print_too_high --> get_answer
-    player_wrong --> too_low[answer is too low]
-    too_low --> print_too_low[print: answer is too low]
+    player_wrong --> too_low[Answer is too low]
+    too_low --> print_too_low[Print: answer is too low]
     print_too_low --> get_answer
 ```
