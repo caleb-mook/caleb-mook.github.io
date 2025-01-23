@@ -14,7 +14,7 @@
     player_wrong --> too_high[Answer is too high]
     too_high --> print_too_high[Print: Answer is to high]
     print_too_high --> get_answer
-    player_wrong --> too_low[answer is too low]
+    player_wrong --> too_low[Answer is too low]
     too_low --> print_too_low[Print: answer is too low]
     print_too_low --> get_answer
 ```
