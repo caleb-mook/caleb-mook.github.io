@@ -5,7 +5,7 @@ print_Q --> get_answer[Recieve players answer]
     get_answer --> checkv[Check for valid answer]
     checkv --> valid[Answer is valid]
     checkv --> nvalid[Answer is invalid]
-    nvalid --> try_again[Print: please try again]
+    nvalid --> try_again[Print: Please try again]
     try_again --> get_answer
     valid --> player_right[Player is right]
     player_right --> win((Player Wins))
@@ -14,6 +14,6 @@ print_Q --> get_answer[Recieve players answer]
     too_high --> print_too_high[Print: Answer is to high]
     print_too_high --> get_answer
     player_wrong --> too_low[Answer is too low]
-    too_low --> print_too_low[Print: answer is too low]
+    too_low --> print_too_low[Print: Answer is too low]
     print_too_low --> get_answer
 ```
