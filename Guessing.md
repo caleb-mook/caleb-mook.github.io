@@ -4,7 +4,7 @@
     print_Q --> get_answer[Recieve players answer]
     get_answer --> checkv[Check for valid answer]
     checkv --> valid[Answer is valid]
-    valid --> check_answer[check if players answer = random number]
+    valid --> check_answer[Check if players answer = random number]
     checkv --> nvalid[Answer is invalid]
     nvalid --> try_again[Print: Please try again]
     try_again --> get_answer
