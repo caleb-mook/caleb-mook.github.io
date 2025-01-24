@@ -20,7 +20,7 @@
 ```
 # Guessing Game Description:
 
-The game starts by generating a random number between 1 and 100.  
+The game starts by generating a random number between 1 and 10.  
 The program then asks the player to choose a number between 1 and 10.  
 The program then recieves the players answer.  
 The answer is then checked to to see if it is valid (between 1 and 10 and numerical characters).  
