@@ -1,10 +1,10 @@
 ```mermaid
     flowchart TD
     generate[Generate random number between 1 and 10] --> print_Q[Print: Guess number between 1 and 10]
-    print_Q --> get_answer[Recieve players answer]
+    print_Q --> get_answer[Recieve player's answer]
     get_answer --> checkv[Check for valid answer]
     checkv --> valid[Answer is valid]
-    valid --> check_answer[Check if players answer = random number]
+    valid --> check_answer[Check if player's answer = random number]
     checkv --> nvalid[Answer is invalid]
     nvalid --> try_again[Print: Please try again]
     try_again --> get_answer
