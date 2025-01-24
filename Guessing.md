@@ -18,7 +18,7 @@
     too_low --> print_too_low[Print: answer is too low]
     print_too_low --> get_answer
 ```
-#Description:
+# Description:
 
 The game starts by generating a random number between 1 and 100.  
 The program then asks the player to choose a number between 1 and 10.  
